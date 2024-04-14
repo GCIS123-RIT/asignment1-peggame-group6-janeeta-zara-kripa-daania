@@ -1,4 +1,4 @@
-// package peggame;
+package PEGGAME_copy;// package peggame;
 
 // import org.junit.jupiter.api.Test;
 // import static org.junit.jupiter.api.Assertions.*;
